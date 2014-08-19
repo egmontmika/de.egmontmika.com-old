@@ -13,7 +13,7 @@ body > main > header > h1 {
   line-height: 2em;
   padding-top: 4em;
   padding-left: 3em;
-  color: rgba(159, 155, 155, 1);
+  color: rgba(192, 188, 188, 1);
   font-weight: 400em;
   letter-spacing: 10px;
   text-transform: uppercase;b
@@ -27,7 +27,7 @@ font-size: 2.4em;
 font-weight: 600;
 padding-top: 1em;
 padding-bottom: 0.5em;
-color: rgba(122, 9, 1, 1);
+color: #7A0901;
 }
 
 /*Blog headlines*/
@@ -47,8 +47,11 @@ body > main > aside {
   Padding-top: 2em;
   Padding-left: 1em;
   Padding-right: 1em;
-  Padding-bottom:20em;
-  background-color: grey;
+  Padding-bottom: 21em;
+  background: -webkit-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(206, 206, 206, 1)), rgba(225, 222, 222, 1)); /* Standard syntax */
 }
 body > main > aside > h1 {
   font-size: 1.2em;
