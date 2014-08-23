@@ -25,11 +25,11 @@
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/ueber-mich">Über mich</a>
+		<a href="http://localhost:1313/ueber-mich">Über mich</a>
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/kontakt">Kontakt</a>
+		<a href="http://localhost:1313/kontakt">Kontakt</a>
 	</li>
 	
 </ul>
@@ -86,5 +86,8 @@ Ich verspreche auch, deine Email-Adresse zu keinem anderen Zweck zu verwenden un
 
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
