@@ -25,11 +25,11 @@
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/ueber-mich">Über mich</a>
+		<a href="http://localhost:1313/ueber-mich">Über mich</a>
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/kontakt">Kontakt</a>
+		<a href="http://localhost:1313/kontakt">Kontakt</a>
 	</li>
 	
 </ul>
@@ -65,9 +65,9 @@
 
 <p>Wie kann man zu echter Bekehrung führen?</p>
 
-<p>Da hilft nur, ihn wirklich kennen zu lernen, sich zu kümmern, Vertrauen aufzubauen und sich leiten zu lassen. Demütig und respektvoll warten zu können. Behutsam zu leiten, ohne zu manipulieren.</p>
+<p>Da hilft nur, jemanden wirklich kennen zu lernen, sich zu kümmern, Vertrauen aufzubauen und sich leiten zu lassen. Demütig und respektvoll warten zu können. Behutsam zu leiten, ohne zu manipulieren.</p>
 
-<p>Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Echte Jüngerschaft ist nicht Dutzendware, auch wenn es am Anfang bei Jesus gerade zwölf waren. Mit äußerer Anpassung und sozialer Eingliederung allein wird noch keiner zum Jünger.</p>
+<p>Zugegeben, die Aufgabe ist nicht leicht. Auf die Schnelle geht da nichts. Echte Jüngerschaft ist nicht Dutzendware, auch wenn es bei Jesus gerade zwölf waren. Mit äußerer Anpassung und sozialer Eingliederung allein wird noch keiner zum Jünger.</p>
 
 <p>Jedoch gibt es einen Weg, den zu gehen sich lohnt.</p>
 
@@ -98,11 +98,11 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
     <nav>
       <ul>
         
-        <li><a href="http://de.egmontmika.com/blog/truegerische-zugehoerigkeit">Trügerische Zugehörigkeit</a></li>
+        <li><a href="http://localhost:1313/blog/truegerische-zugehoerigkeit">Trügerische Zugehörigkeit</a></li>
         
-        <li><a href="http://de.egmontmika.com/blog/nur-juenger-machen-juenger">Nur Jünger machen Jünger</a></li>
+        <li><a href="http://localhost:1313/blog/nur-juenger-machen-juenger">Nur Jünger machen Jünger</a></li>
         
-        <li><a href="http://de.egmontmika.com/blog/juenger-machen-oder-gemeinde-bauen">Jünger oder Gemeinde?</a></li>
+        <li><a href="http://localhost:1313/blog/juenger-machen-oder-gemeinde-bauen">Jünger oder Gemeinde?</a></li>
         
       </ul>
     </nav>
@@ -127,5 +127,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

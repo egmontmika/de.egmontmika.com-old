@@ -25,11 +25,11 @@
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/ueber-mich">Über mich</a>
+		<a href="http://localhost:1313/ueber-mich">Über mich</a>
 	</li>
 	
 	<li>
-		<a href="http://de.egmontmika.com/kontakt">Kontakt</a>
+		<a href="http://localhost:1313/kontakt">Kontakt</a>
 	</li>
 	
 </ul>
@@ -112,11 +112,11 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
     <nav>
       <ul>
         
-        <li><a href="http://de.egmontmika.com/blog/truegerische-zugehoerigkeit">Trügerische Zugehörigkeit</a></li>
+        <li><a href="http://localhost:1313/blog/truegerische-zugehoerigkeit">Trügerische Zugehörigkeit</a></li>
         
-        <li><a href="http://de.egmontmika.com/blog/nur-juenger-machen-juenger">Nur Jünger machen Jünger</a></li>
+        <li><a href="http://localhost:1313/blog/nur-juenger-machen-juenger">Nur Jünger machen Jünger</a></li>
         
-        <li><a href="http://de.egmontmika.com/blog/juenger-machen-oder-gemeinde-bauen">Jünger oder Gemeinde?</a></li>
+        <li><a href="http://localhost:1313/blog/juenger-machen-oder-gemeinde-bauen">Jünger oder Gemeinde?</a></li>
         
       </ul>
     </nav>
@@ -141,5 +141,8 @@ var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s
 
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
