@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Egmont Mika </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://de.egmontmika.com/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>de-DE</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Wenn Segen fehlschlägt</title>
-      <link>http://de.egmontmika.com/blog/wenn-irdischer-segen-fehlschla%CC%88gt</link>
+      <link>http://localhost:1313/blog/wenn-irdischer-segen-fehlschla%CC%88gt</link>
       <pubDate>Fri, 19 Sep 2014 03:01:45 UTC</pubDate>
       
-      <guid>http://de.egmontmika.com/blog/wenn-irdischer-segen-fehlschla%CC%88gt</guid>
+      <guid>http://localhost:1313/blog/wenn-irdischer-segen-fehlschla%CC%88gt</guid>
       <description>&lt;p&gt;Jeder Jünger Jesu ist ein über alle Maßen Gesegneter. Zu seinen Vorrechten gehört es, die Segnungen des Neuen Bundes voll in Anspruch nehmen zu dürfen.&lt;/p&gt;
 
 &lt;p&gt;Das ist nicht gerade wenig: Versöhnung mit Gott, innerer Frieden und neues geistliches Leben in ständiger Gemeinschaft mit ihm.&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Trügerische Zugehörigkeit</title>
-      <link>http://de.egmontmika.com/blog/truegerische-zugehoerigkeit</link>
+      <link>http://localhost:1313/blog/truegerische-zugehoerigkeit</link>
       <pubDate>Thu, 28 Aug 2014 03:01:45 UTC</pubDate>
       
-      <guid>http://de.egmontmika.com/blog/truegerische-zugehoerigkeit</guid>
+      <guid>http://localhost:1313/blog/truegerische-zugehoerigkeit</guid>
       <description>
 
 &lt;p&gt;Gemeinschaft ist für Jesu Jünger unverzichtbar.&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Nur Jünger machen Jünger</title>
-      <link>http://de.egmontmika.com/blog/nur-juenger-machen-juenger</link>
+      <link>http://localhost:1313/blog/nur-juenger-machen-juenger</link>
       <pubDate>Wed, 20 Aug 2014 03:01:45 UTC</pubDate>
       
-      <guid>http://de.egmontmika.com/blog/nur-juenger-machen-juenger</guid>
+      <guid>http://localhost:1313/blog/nur-juenger-machen-juenger</guid>
       <description>&lt;p&gt;Jesus hatte Jünger, nicht Mitglieder.&lt;/p&gt;
 
 &lt;p&gt;Organisationen haben Mitglieder. Sie haben Statuten, Ämter und Ausschüsse. Sie verwalten, planen und entwickeln. Sie bauen und veanstalten. Aber Jünger machen?&lt;/p&gt;
@@ -109,10 +109,19 @@
     
     <item>
       <title>Jünger oder Gemeinde?</title>
-      <link>http://de.egmontmika.com/blog/juenger-machen-oder-gemeinde-bauen</link>
+      <link>http://localhost:1313/jesus-%20</link>
       <pubDate>Fri, 01 Aug 2014 03:01:45 UTC</pubDate>
       
-      <guid>http://de.egmontmika.com/blog/juenger-machen-oder-gemeinde-bauen</guid>
+      <guid>http://localhost:1313/jesus-%20</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jünger oder Gemeinde?</title>
+      <link>http://localhost:1313/blog/juenger-machen-oder-gemeinde-bauen</link>
+      <pubDate>Fri, 01 Aug 2014 03:01:45 UTC</pubDate>
+      
+      <guid>http://localhost:1313/blog/juenger-machen-oder-gemeinde-bauen</guid>
       <description>
 
 &lt;p&gt;Was ist vorrangig: Jünger machen oder Gemeinde bauen? Was kommt eigentlich zuerst?&lt;/p&gt;
@@ -160,30 +169,11 @@
     </item>
     
     <item>
-      <title>Jünger oder Gemeinde?</title>
-      <link>http://de.egmontmika.com/jesus-%20</link>
-      <pubDate>Fri, 01 Aug 2014 03:01:45 UTC</pubDate>
-      
-      <guid>http://de.egmontmika.com/jesus-%20</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kontakt</title>
-      <link>http://de.egmontmika.com/kontakt</link>
-      <pubDate>Fri, 01 Aug 2014 03:01:12 UTC</pubDate>
-      
-      <guid>http://de.egmontmika.com/kontakt</guid>
-      <description>&lt;iframe height=&#34;517&#34; allowTransparency=&#34;true&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;width:100%;border:none&#34;  src=&#34;https://egmontmika.wufoo.com/embed/q1peosr01y5kdr2/&#34;&gt;&lt;a href=&#34;https://egmontmika.wufoo.com/forms/q1peosr01y5kdr2/&#34;&gt;Fill out my Wufoo form!&lt;/a&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Über mich</title>
-      <link>http://de.egmontmika.com/ueber-mich</link>
+      <link>http://localhost:1313/ueber-mich</link>
       <pubDate>Fri, 01 Aug 2014 03:01:12 UTC</pubDate>
       
-      <guid>http://de.egmontmika.com/ueber-mich</guid>
+      <guid>http://localhost:1313/ueber-mich</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;Steckbrief&lt;/h2&gt;
@@ -209,6 +199,16 @@ Mir geht es dabei weniger um eine spezielle kirchliche oder konfessionelle Lehre
 &lt;p&gt;Ich habe vor, jede Woche einen neuen Artikel rauszulegen und zwar im Wechsel, jede zweite Woche auf Deutsch und jede zweite Woche auf Englisch. Die englischen Artikel liegen in meinem &lt;strong&gt;&lt;a href=&#34;http://egmontmika.com&#34;&gt;englischen Blog&lt;/a&gt;&lt;/strong&gt; mit der Adresse &lt;strong&gt;&lt;a href=&#34;http://egmontmika.com&#34;&gt;egmontmika.com&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Wenn du an meinem Thema interessiert bist, dann gib doch eine Bestellung auf, indem du rechts oben in den weißen Kasten deine Email-Adresse eingibst und auf „Übermitteln&amp;rdquo; klickst. Du bekommst dann die neuen Artikel per Email zugeschickt. Das wäre auch die einfachste Art, mir dein Interesse zu zeigen, Kontakt zu halten und mich zu ermutigen. Solltest du auch die englischen Artikel haben wollen, dann bestelle bitte vom &lt;strong&gt;&lt;a href=&#34;http://egmontmika.com/blog&#34;&gt;englischen Blog&lt;/a&gt;&lt;/strong&gt; aus, indem du dort auf die &lt;strong&gt;&lt;a href=&#34;http://egmontmika.com/blog&#34;&gt;Subscribe-Taste&lt;/a&gt;&lt;/strong&gt; klickst. Ich verspreche auch, deine Email-Adresse zu keinem anderen Zweck zu verwenden und auf Wunsch jederzeit wieder von meiner Liste zu streichen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt</link>
+      <pubDate>Fri, 01 Aug 2014 03:01:12 UTC</pubDate>
+      
+      <guid>http://localhost:1313/kontakt</guid>
+      <description>&lt;iframe height=&#34;517&#34; allowTransparency=&#34;true&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;width:100%;border:none&#34;  src=&#34;https://egmontmika.wufoo.com/embed/q1peosr01y5kdr2/&#34;&gt;&lt;a href=&#34;https://egmontmika.wufoo.com/forms/q1peosr01y5kdr2/&#34;&gt;Fill out my Wufoo form!&lt;/a&gt;&lt;/iframe&gt;
 </description>
     </item>
     
