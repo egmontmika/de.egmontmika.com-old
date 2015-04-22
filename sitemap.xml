@@ -3,13 +3,13 @@
   
   <url>
     <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2015-04-09T03:01:45+00:00</lastmod>
+    <lastmod>2015-04-15T03:01:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/blog/glaube%20ist%20nicht%20religion/</loc>
-    <lastmod>2015-04-09T03:01:45+00:00</lastmod>
+    <loc>http://de.egmontmika.com/blog/was-ist-die-vollkommene-gemeinde/</loc>
+    <lastmod>2015-04-15T03:01:45+00:00</lastmod>
   </url>
   
   <url>
@@ -98,13 +98,17 @@
   </url>
   
   <url>
+    <loc>http://de.egmontmika.com/ueber-mich/</loc>
+    <lastmod>2014-08-01T03:01:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://de.egmontmika.com/kontakt/</loc>
     <lastmod>2014-08-01T03:01:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/ueber-mich/</loc>
-    <lastmod>2014-08-01T03:01:12+00:00</lastmod>
+    <loc>http://de.egmontmika.com/blog/glaube%20ist%20nicht%20religion/</loc>
   </url>
   
 </urlset>
