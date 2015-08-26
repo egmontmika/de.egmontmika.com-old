@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2015-06-18T03:01:45+00:00</lastmod>
+    <lastmod>2015-08-26T03:01:45+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/respekt-freiheit-und-vertrauen/</loc>
+    <lastmod>2015-08-26T03:01:45+00:00</lastmod>
   </url>
   
   <url>
@@ -118,12 +123,12 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/ueber-mich/</loc>
+    <loc>http://de.egmontmika.com/kontakt/</loc>
     <lastmod>2014-08-01T03:01:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/kontakt/</loc>
+    <loc>http://de.egmontmika.com/ueber-mich/</loc>
     <lastmod>2014-08-01T03:01:12+00:00</lastmod>
   </url>
   
