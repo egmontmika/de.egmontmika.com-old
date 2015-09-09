@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://de.egmontmika.com/</loc>
-    <lastmod>2015-08-26T03:01:45+00:00</lastmod>
+    <lastmod>2015-09-09T06:39:19+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://de.egmontmika.com/blog/teile-dein-brot/</loc>
+    <lastmod>2015-09-09T06:39:19+00:00</lastmod>
   </url>
   
   <url>
@@ -123,12 +128,12 @@
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/kontakt/</loc>
+    <loc>http://de.egmontmika.com/ueber-mich/</loc>
     <lastmod>2014-08-01T03:01:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://de.egmontmika.com/ueber-mich/</loc>
+    <loc>http://de.egmontmika.com/kontakt/</loc>
     <lastmod>2014-08-01T03:01:12+00:00</lastmod>
   </url>
   
