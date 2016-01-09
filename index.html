@@ -76,7 +76,7 @@
     
       <article>
         <header>
-          <h1><a href='http://de.egmontmika.com/blog/wie-viel-ist-ein-halbes-versprechen/'>Wie viel ist ein halbes Versprechen?</a></h1>
+          <h1><a href='http://localhost:1313/blog/wie-viel-ist-ein-halbes-versprechen/'>Wie viel ist ein halbes Versprechen?</a></h1>
           <p><time>2016/01/06</time>&nbsp;&nbsp;400 Wörter</p>
         </header>
         <p>Für einen Hungernden wäre ein halber Hamburger besser als nichts.</p>
@@ -122,12 +122,12 @@ Das ist wie eine Brücke. Brücken haben nur einen Sinn, wenn sie zu 100% den Fl
 <p><em>Egmont</em> -
 Danke, Wilfried. Gutes Beispiel.</p>
 
-        <footer><p><a href='http://de.egmontmika.com/blog/wie-viel-ist-ein-halbes-versprechen/'>Weiter lesen</a><p></footer>
+        <footer><p><a href='http://localhost:1313/blog/wie-viel-ist-ein-halbes-versprechen/'>Weiter lesen</a><p></footer>
       </article>
     
       <article>
         <header>
-          <h1><a href='http://de.egmontmika.com/blog/wenn-du-es-ernst-meinst/'>Wenn du&#39;s ernst meinst.</a></h1>
+          <h1><a href='http://localhost:1313/blog/wenn-du-es-ernst-meinst/'>Wenn du&#39;s ernst meinst.</a></h1>
           <p><time>2015/12/23</time>&nbsp;&nbsp;600 Wörter</p>
         </header>
         <p>Jünger machen gelingt denen, die es ernst meinen.</p>
@@ -170,11 +170,11 @@ Danke, Wilfried. Gutes Beispiel.</p>
 
 <p>Zugegeben, es ist nicht immer leicht, Vater oder Mutter zu sein, und einige von uns können so manches Lied davon singen. Aber es funktioniert doch irgendwie, trotz unserer Mängel. Und bringt brauchbare Ergebnisse.</p>
 
-<p>So ungefähr ist es mit dem Jünger machen. Es ist nicht immer leicht und hat seinen Preis, jedoch ist es möglich und das Ergebnis bleibt nicht aus.</p>
+<p>So ungefähr ist es mit dem Jünger machen. Es ist nicht immer leicht und hat seinen Preis. Jedoch ist es möglich und das Ergebnis bleibt nicht aus.</p>
 
 <p>Für den, der es ernst meint.</p>
 
-        <footer><p><a href='http://de.egmontmika.com/blog/wenn-du-es-ernst-meinst/'>Weiter lesen</a><p></footer>
+        <footer><p><a href='http://localhost:1313/blog/wenn-du-es-ernst-meinst/'>Weiter lesen</a><p></footer>
       </article>
     
     </footer>
@@ -194,5 +194,8 @@ Danke, Wilfried. Gutes Beispiel.</p>
 
 </script>
 
-</body>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
